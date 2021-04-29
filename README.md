@@ -9,5 +9,5 @@ But look no further, with this program characters of the game Werewolf can be ra
 ![main-screen](./screenshots/main_screen.png)
 
 ## Links
-[character list](https://werwolf.fandom.com/de/wiki/Rollen)
-[graphical user interface](https://github.com/PySimpleGUI/PySimpleGUI)
+* [character list](https://werwolf.fandom.com/de/wiki/Rollen)
+* [graphical user interface](https://github.com/PySimpleGUI/PySimpleGUI)
