@@ -1,0 +1,12 @@
+{
+  "german": {
+    "character_count": "Ausgewählte Karaktere: {character_count}",
+    "default_players": "tick\ntrick\ntrack\ndagobert\ndonald\ndaisy",
+    "help_text": "Mit diesem Programm können Personen leicht Werwolfkaraktären zugeördnet werden. Einfach in der ersten Spalte auswählen wie oft jeder Karakter in den \" Topf \" geworfen werden soll, und in der zweiten Spalte pro Zeile eine Person eintragen. Es solltend midestens so viele Karatere wie Spieler ausgewählt werden. Falls mehr Karaktere als Spieler gewählt werden, werden per Zufall Karaktere aussortiert."
+  },
+  "english": {
+    "character_count": "Selected Characters: {character_count}",
+    "default_players": "tick\ntrick\ntrack\ndagobert\ndonald\ndaisy",
+    "help_text": "With this program, people can easily be assigned to werewolf characters. Simply select in the first column how many times each character should be thrown into the \"pot\", and enter one person per line in the second column.At least as many Karatere as players should be selected. If more characters are selected than players, characters will be randomly sorted out."
+  }
+}

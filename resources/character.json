@@ -1,0 +1,252 @@
+{
+  "german": {
+    "👱‍ Dorfbewohner": {
+      "help": "Hat keine besonderen Fähigkeiten",
+      "default count": 3
+    },
+    "👩‍ Doktor": {
+      "help": "Kann jede Nacht einen Spieler auswählen, der in dieser Nacht nicht getötet werden kann"
+    },
+    "🥷 Leibwächter": {
+      "help": "Kann jede Nacht einen Spieler auswählen. Wenn dieser Spieler in dieser Nacht angegriffen wird, wird der Leibwächter stattdessen angegriffen. Der Leibwächter überlebt den ersten Angriff, stirbt aber bei einem zweiten."
+    },
+    "💪 Harter Bursche": {
+      "help": "Kann jede Nacht einen Spieler schützen. Wenn der Harte Bursche oder der Spieler, den er beschützt, angegriffen wird, sehen er und sein Angreifer die Rolle des jeweils anderen. In der Nacht nach dem Angriff stirbt der Harte Bursche."
+    },
+    "🔫 Schütze": {
+      "help": "Kann zwei Mal im Spiel und einmal am Tag einen beliebigen Spieler erschießen. Nach dem ersten Schuss wird seine Rolle jedoch aufgedeckt."
+    },
+    "🗝️ Gefängniswärter": {
+      "help": "Kann jeden Tag einen Spieler auswählen, der in der nächsten Nacht ins Gefängnis gesteckt wird. Er kann privat und anonym mit dem Gefangenen reden. Der Gefängniswärter kann einen seiner Gefangenen pro Spiel erschießen"
+    },
+    "⛪ Priester": {
+      "help": "Kann einmal im Spiel heiliges Wasser auf einen Spieler werfen. Wenn dieser Spieler ein Werwolf ist, stirbt er, wenn nicht, stirbt der Priester."
+    },
+    "👀 Seher": {
+      "help": "Kann jede Nacht die Rolle eines Spielers ansehen.",
+      "default count": 1
+    },
+    "💫 Aura Seher": {
+      "help": "Kann jede Nacht ansehen, ob ein Spieler gut, böse oder unbekannt ist."
+    },
+    "👁️ Seher Lehrling": {
+      "help": "Ist ein normaler Dorfbewohner, bis der Seher stirbt. Dann wird er zum neuen Seher."
+    },
+    "🕵️ Detektiv": {
+      "help": "Kann jede Nacht zwei Spieler auswählen und nachsehen, ob sie zum gleichen Team gehören oder in unterschiedlichen Teams sind."
+    },
+    "🔮 Medium": {
+      "help": "Kann jede Nacht anonym mit den Toten sprechen und kann einmal im Spiel einen der toten Dorfbewohner wiederbeleben."
+    },
+    "🗽 Bürgermeister": {
+      "help": "Kann einmal Spiel seine Rolle aufdecken, wodurch seine Stimme beim Abstimmen an allen darauffolgenden Tagen doppelt zählt."
+    },
+    "🧙 Hexe": {
+      "help": "Hat zwei Tränke. Der eine tötet einen Spieler, der andere schützt einen Spieler. Jeder Trank kann nur einmal eingesetzt werden.",
+      "default count": 1
+    },
+    "🗡️ Jäger": {
+      "help": "Dorfbewohner, der einen Spieler auswählen kann, der stirbt, wenn er stirbt."
+    },
+    "⚔️️ Biestjäger": {
+      "help": "Kann jede Nacht eine Falle auf einem Spieler platzieren, die in der nächsten Nacht aktiv wird. Wenn der Spieler, auf dem die Falle platziert ist, in der nächsten Nacht angegriffen wird, stirbt ein zufälliger Werwolf."
+    },
+    "🕊️ Pazifist": {
+      "help": "Kann einmal im Spiel die Rolle eines Spielers aufdecken. An diesem Tag kann nicht abgestimmt werden."
+    },
+    "🧓 Alte Schrulle": {
+      "help": "Kann nach der ersten Nacht einen Spieler auswählen, der am nächsten Tag nicht schreiben und nicht abstimmen kann."
+    },
+    "👩‍💼 Präsident": {
+      "help": "Seine Rolle ist von Anfang an aufgedeckt. Wenn er stirbt, verliert das Dorf."
+    },
+    "🏹 Amor": {
+      "help": "Kann in der ersten Nacht zwei Spieler verlieben, die am nächsten Tag zum Paar werden. Gewinnt entweder mit dem Dorf oder mit dem Paar, wenn dieses bis zum Ende des Spiels am Leben bleibt.",
+      "default count": 1
+    },
+    "🤬 Verfluchter Dorfbewohner": {
+      "help": "Ist ein normaler Dorfbewohner. Wenn er von den Werwölfen angegriffen wird, wird er selbst zum Werwolf."
+    },
+    "💝 Verliebter": {
+      "help": "Andere Rolle (siehe oben & unten) + stirbt, wenn sein Partner stirbt."
+    },
+    "💣 Terrorist": {
+      "help": "Wenn der Terrorist stirbt sterben die beiden Spieler links und rechts von dem Terroristen mit."
+    },
+    "🧒 Das Wilde Kind": {
+      "help": "Sucht sich am Anfang ein Vorbild aus. Wenn es stirbt, wird er zum Werwolf. Wenn nicht, bleibt er Dorfbewohner."
+    },
+    "🐺 Werwolf": {
+      "help": "Kann jede Nacht zusammen mit den anderen Wölfen abstimmen, welcher Spieler getötet wird.",
+      "default count": 3
+    },
+    "🐺 Alphawerwolf": {
+      "help": "Werwolf, der in der Nacht bei der Wahl, welcher Spieler getötet werden soll, zwei Stimmen hat."
+    },
+    "🐺 Wolfschamane": {
+      "help": "Kann am Tag ein zusätzliches Ziel bestimmen. Das ausgewählte Ziel wird, wenn es von Sehern angesehen wird, als Wolfschamane zu sehen sein."
+    },
+    "🐺 Wolf Seher": {
+      "help": "Kann jede Nacht die Rolle eines Spielers aufdecken, kann aber nicht abstimmen. Kann einmal für das gesamte Spiel seine Sehfähigkeit aufgeben und abstimmen. Wenn er der letzte Wolf ist, wird er zum normalen Werwolf."
+    },
+    "🐺 Juniorwerwolf": {
+      "help": "Kann ein zusätzliches Ziel bestimmen. Wenn der Juniorwerwolf stirbt, stirbt sein Ziel mit ihm."
+    },
+    "🐺 Hexer": {
+      "help": "Kann jede Nacht die Rolle eines Spielers aufdecken. Kann zwar abstimmen, kann aber nicht mit den anderen Werwölfen schreiben."
+    },
+    "🤡 Narr": {
+      "help": "Hat keine besonderen Fähigkeiten. Gewinnt, wenn das Dorf ihn lyncht.",
+      "default count": 1
+    },
+    "💰 Kopfgeldjäger": {
+      "help": "Hat keine besonderen Fähigkeiten. Gewinnt, wenn er das Dorf überzeugen kann, für den Tod seines Ziels abzustimmen. Wenn sein Ziel auf andere Weise stirbt, wird er zum normalen Dorfbewohner. Sein Ziel kann nur ein Dorfbewohner sein, dessen Rolle sich nicht selbst aufdeckt (z.B. kann das Ziel nicht Schütze sein)."
+    },
+    "☠️ Serienmörder": {
+      "help": "Kann jede Nacht einen Spieler töten. Kann nicht von den Werwölfen getötet werden. Gewinnt, wenn er der letzte Überlebende ist."
+    },
+    "🔥 Brandstifter": {
+      "help": "Kann jede Nacht entweder zwei Spieler mit Benzin übergießen oder alle bisher übergossenen Spieler anzünden. Kann nicht von den Werwölfen getötet werden. Gewinnt, wenn er der letzte Überlebende ist."
+    },
+    "💣 Bomber": {
+      "help": "Kann jede Nacht eine Bombe auf einen Spieler platzieren. Sie wird in der nächsten Nacht explodieren. Gewinnt, wenn er der letzte Überlebende ist."
+    },
+    "⛪ Sektenführer": {
+      "help": "Kann jede Nacht einen Spieler auswählen, der am nächsten Tag seiner Sekte beitritt. Gewinnt, wenn alle Dorfbewohner (keine Werwölfe) seiner Sekte beigetreten sind. Werwölfe oder Spezialrollen können nicht der Sekte beitreten."
+    },
+    "🧟 Zombie": {
+      "help": "Kann jede Nacht einen Spieler auswählen, der in der nächsten Nacht ebenfalls zum Zombie wird. Jeder Zombie kann einen anderen Spieler auswählen. Gewinnt, wenn alle Dorfbewohner (keine Werwölfe) zu Zombies geworden sind."
+    },
+    "⛪ Sektenmitglied": {
+      "help": "Andere Rolle (siehe oben) + stirbt, wenn der Sektenführer stirbt"
+    },
+    "🛠️ Saboteur": {
+      "help": "Kann jede Nacht einen Spieler auswählen, der am nächsten Tag nichts sagen und nicht abstimmen kann. Am Ende des Tages stirbt der ausgewählte Spieler."
+    }
+  },
+  "english": {
+    "👱‍ Villagers": {
+      "help": "Hat keine besonderen Fähigkeiten",
+      "default count": 3
+    },
+    "👩‍ Doctor": {
+      "help": "Can choose one player each night who cannot be killed that night"
+    },
+    "🥷 Bodyguard": {
+      "help": "Can select one player each night. If that player is attacked that night, the bodyguard is attacked instead. The bodyguard survives the first attack, but dies on a second."
+    },
+    "💪 Tough guy": {
+      "help": "Can protect one player each night. When the Tough Guy or the player he protects is attacked, he and his attacker see each other's roles. The night after the attack, the Tough Guy dies."
+    },
+    "🔫 Shooter": {
+      "help": "Can shoot any player twice in the game and once a day. However, after the first shot, his role is revealed."
+    },
+    "🗝️ Prison Guard": {
+      "help": "Can choose a player each day to be put in jail the next night. He can talk to the prisoner privately and anonymously. The jailer can shoot one of his prisoners per game"
+    },
+    "⛪ Priest": {
+      "help": "Can throw holy water at a player once in the game. If this player is a werewolf, he dies, if not, the priest dies."
+    },
+    "👀 Viewer": {
+      "help": "Can watch the role of a player every night.",
+      "default count": 1
+    },
+    "💫 Aura Viewer": {
+      "help": "Can view each night whether a player is good, bad or unknown."
+    },
+    "👁️ Viewer apprentice": {
+      "help": "Is a normal villager until the seer dies. Then he becomes the new seer."
+    },
+    "🕵️ Detective": {
+      "help": "Can select two players each night and see if they are on the same team or on different teams."
+    },
+    "🔮 Medium": {
+      "help": "Can talk to the dead anonymously every night and can revive one of the dead villagers once in the game."
+    },
+    "🗽 Mayor": {
+      "help": "Can reveal his role once game, causing his vote to count double when voting on all subsequent days."
+    },
+    "🧙 Witch": {
+      "help": "Has two potions. One kills a player, the other protects a player. Each potion can only be used once.",
+      "default count": 1
+    },
+    "🗡️ Hunter": {
+      "help": "Villager who can choose a player to die when he dies."
+    },
+    "⚔️️ Beast Hunter": {
+      "help": "Can place a trap on a player each night, which becomes active the next night. If the player the trap is placed on is attacked the next night, a random werewolf dies."
+    },
+    "🕊️ Pacifist": {
+      "help": "Can reveal a player's role once in the game. Cannot vote that day."
+    },
+    "🧓 Old quirk": {
+      "help": "Can choose a player after the first night, can't write or vote the next day."
+    },
+    "👩💼 President": {
+      "help": "His role is revealed from the beginning. If he dies, the village loses."
+    },
+    "🏹 Cupid": {
+      "help": "Can make two players fall in love on the first night, and they become a couple the next day. Wins either with the village or with the couple if they stay alive until the end of the game.",
+      "default count": 1
+    },
+    "🤬 Cursed Villager": {
+      "help": "Is a normal villager. When attacked by the werewolves, he becomes a werewolf himself."
+    },
+    "💝 Lover": {
+      "help": "Other role (see above & below) + dies when his partner dies."
+    },
+    "💣 Terrorist": {
+      "help": "When the terrorist dies, the two players to the left and right of the terrorist die with him."
+    },
+    "🧒 Wild Child": {
+      "help": "Picks a role model at the beginning. If it dies, he becomes a werewolf. If not, he remains a villager."
+    },
+    "🐺 Werewolf": {
+      "help": "Can vote every night along with the other wolves which player will be killed.",
+      "default count": 3
+    },
+    "🐺 Alpha Werewolf": {
+      "help": "Werewolf who has two votes that night in choosing which player to kill."
+    },
+    "🐺 Wolf Shaman": {
+      "help": "May designate an additional target during the day. The selected target, when viewed by seers, will be seen as a wolf shaman."
+    },
+    "🐺 Wolf Seer": {
+      "help": "Can reveal a player's role each night, but cannot vote. Can give up his ability to see and vote once for the entire game. If he is the last wolf, he becomes a normal werewolf."
+    },
+    "🐺 Junior Werewolf": {
+      "help": "Can designate an additional target. When the junior werewolf dies, its target dies with it."
+    },
+    "🐺 Warlock": {
+      "help": "Can reveal a player's role each night. Can vote, but cannot write with the other werewolves."
+    },
+    "🤡 Jester": {
+      "help": "Has no special abilities. Wins if the village lynches him.",
+      "default count": 1
+    },
+    "💰 Bounty Hunter": {
+      "help": "Has no special abilities. Wins if he can convince the village to vote for his target to die. If his target dies in any other way, he becomes a normal villager. His target can only be a villager whose role does not reveal itself (e.g., the target cannot be a gunner)."
+    },
+    "☠️ Serial Killer": {
+      "help": "Can kill a player every night. Cannot be killed by the werewolves. Wins if he is the last survivor."
+    },
+    "🔥 Arsonist": {
+      "help": "Can either douse two players with gasoline each night or set all previously doused players on fire. Cannot be killed by the werewolves. Wins if he is the last survivor."
+    },
+    "💣 Bomber": {
+      "help": "Can place a bomb on a player every night. It will explode the next night. Wins if he is the last survivor."
+    },
+    "⛪ Cult Leader": {
+      "help": "Can choose one player each night to join his cult the next day. Wins when all villagers (no werewolves) have joined his cult. Werewolves or special roles cannot join the cult."
+    },
+    "🧟 Zombie": {
+      "help": "Can select a player each night who will also become a zombie the next night. Each zombie can select a different player. Wins when all villagers (no werewolves) have become zombies."
+    },
+    "⛪ Cultist.": {
+      "help": "Other role (see above) + dies when cult leader dies."
+    },
+    "🛠️ Saboteur": {
+      "help": "Can select a player each night who cannot say anything or vote the next day. At the end of the day, the selected player dies."
+    }
+  }
+}
